@@ -86,7 +86,7 @@ function App() {
       <CountdownTimer />
 
       <Container maxWidth="md" sx={{ mt: 6, mb: 8 }}>
-        <Typography variant="h3" align="center" gutterBottom>
+        <Typography variant="h2" align="center" gutterBottom>
           MindMate
         </Typography>
 
